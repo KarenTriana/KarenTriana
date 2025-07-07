@@ -27,40 +27,40 @@
   <img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250" />
 </div>
 
-<details>
-<summary><strong>📌 About Me + Contact + Tools</strong></summary>
-
-<br/>
-
-### - <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"> I’m currently learning **Java, JavaScript, HTML, SQL**
-
-### - <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"> I like **designing in Canva, editing videos in Filmora, exploring web dev, and learning new tech**
-
-<div align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200" />
-</div>
-
-### 🤝 Connect with me:
-<div align="center">
-  <a href="https://www.linkedin.com/in/kjtb17">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:karenjtbl7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-### 🛠️ Languages and Tools:
-<p align="center"> 
-  <a href="#"> <img src="https://cdn3.emoji.gg/emojis/java.png" width="40px" height="40px" alt="java"></a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"></a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="html"></a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="sql"></a>
-  <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" height="40" alt="Canva"></a>
-  <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968490.png" width="40" height="40" alt="Filmora"></a>
-</p>
-
-</details>
+<table align="center" width="100%" style="border: 1px solid #6e44ff; border-collapse: collapse;">
+  <tr>
+    <td style="border: 1px solid #6e44ff; padding: 15px;">
+      <h3>👩‍💻 About Me</h3>
+      <ul>
+        <li>✨ I’m currently learning <strong>Java, JavaScript, HTML, SQL</strong></li>
+        <li>✨ I like <strong>designing in Canva, editing videos in Filmora, exploring web dev, and learning new tech</strong></li>
+      </ul>
+      <div align="center">
+        <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200" />
+      </div>
+    </td>
+    <td style="border: 1px solid #6e44ff; padding: 15px;">
+      <h3>📬 Connect with Me</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/kjtb17">
+          <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:karenjtbl7@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </p>
+      <h3>🛠️ Languages & Tools</h3>
+      <p align="center"> 
+        <a href="#"> <img src="https://cdn3.emoji.gg/emojis/java.png" width="40px" height="40px" alt="java"></a>
+        <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"></a>
+        <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="html"></a>
+        <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="sql"></a>
+        <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" height="40" alt="Canva"></a>
+        <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968490.png" width="40" height="40" alt="Filmora"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!--- stats & Trophy (start) -->
 <h3 align="center">📊 GitHub Stats</h3>
