@@ -29,7 +29,11 @@
 
 ### - <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"> I’m currently learning **Java, JavaScript, HTML, SQL**
 
-### - <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"> I like **designing in Canva, editing videos in Filmora, exploring web dev, and learning new tech** <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+### - <img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"> I like **designing in Canva, editing videos in Filmora, exploring web dev, and learning new tech**
+
+<div align="center">
+  <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200" />
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
