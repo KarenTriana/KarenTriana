@@ -19,13 +19,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%238A2BE2&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Technology+Student;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
-<div align="center">
-  <img hight="300" width="700" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img hight="300" width="700" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250" />
+    </td>
+  </tr>
+</table>
 
 <table align="center" width="100%" style="border: 1px solid #6e44ff; border-collapse: collapse;">
   <tr>
@@ -40,7 +45,7 @@
       </div>
     </td>
     <td style="border: 1px solid #6e44ff; padding: 15px;">
-      <h3>📬 Connect with Me</h3>
+      <h3 align="center">📬 Contactos directos</h3>
       <p align="center">
         <a href="https://www.linkedin.com/in/kjtb17">
           <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -49,7 +54,7 @@
           <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
       </p>
-      <h3>🛠️ Languages & Tools</h3>
+      <h3 align="center">🛠️ Lenguajes y herramientas</h3>
       <p align="center"> 
         <a href="#"> <img src="https://cdn3.emoji.gg/emojis/java.png" width="40px" height="40px" alt="java"></a>
         <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"></a>
