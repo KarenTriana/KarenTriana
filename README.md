@@ -19,13 +19,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%238A2BE2&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Technology+Student;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
-      <img hight="300" width="700" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+      <img height="300" width="100%" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250" />
     </td>
@@ -69,11 +67,21 @@
 
 <!--- stats & Trophy (start) -->
 <h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarenTriana&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenTriana&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarenTriana&theme=midnight-purple&hide_border=true" alt="Streak Stats" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=KarenTriana&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenTriana&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarenTriana&theme=midnight-purple&hide_border=true" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 <!--- stats (end) -->
 
 <p align="center">
