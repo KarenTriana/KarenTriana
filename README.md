@@ -51,22 +51,13 @@
 </p>
 
 <!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=karenjtbl7&theme=midnight-purple&show_icons=true&count_private=true" />
-        <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Karen streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karenjtbl7&theme=midnight-purple&hide_border=false" /> 
-      </td>
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=karenjtbl7&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-      </td>
-    </tr>
-  </table>
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarenTriana&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenTriana&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarenTriana&theme=midnight-purple&hide_border=true" alt="Streak Stats" />
+</div>
 <!--- stats (end) -->
-</p>
 
 <p align="center">
   <a href="https://emoji.gg/emoji/5349-hellokittybyebye">
@@ -76,6 +67,6 @@
 
 ------
 
-Credit: [KarenJTbl7](https://github.com/karenjtbl7)
+Credit: [KarenTriana](https://github.com/KarenTriana)
 
 Last Edited on: 07/07/2025
